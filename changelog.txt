@@ -1,0 +1,5 @@
+- Remove Issue Report.docx
+- Remove Test Case.docx
+- Adding Issue Report.xlxs
+- Adding Test Case.xlxs
+- Split automation script to 3 test cases: Check Cakculator Funtionality, Check Terms and Conditions, and Privacy and Check UI Home
