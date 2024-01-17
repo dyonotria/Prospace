@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "E9EA9CB2199F376358DAE76E330481CD",
+  "keywordClasses": [
+    {
+      "name": "keyWord.factorial",
+      "keywordMethods": [
+        {
+          "name": "fact",
+          "parameters": [
+            {
+              "name": "n",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "long",
+                "unresolvedClassName": "long",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

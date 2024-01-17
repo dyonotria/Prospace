@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "0497CA8E30E7A508428455D854107037",
+  "keywordClasses": [
+    {
+      "name": "custom.factorial",
+      "keywordMethods": [
+        {
+          "name": "fact",
+          "parameters": [
+            {
+              "name": "n",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "long",
+                "unresolvedClassName": "long",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

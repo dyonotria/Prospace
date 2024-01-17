@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Term_Content_Actual</name>
+   <tag></tag>
+   <elementGuidId>c75b89d3-c94c-45b4-9363-2907c39ca00e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='This is the privacy document. We are not yet ready with it. Stay tuned!']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>b4eff0a8-a37f-4dc1-8112-e649800b4ad0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This is the privacy document. We are not yet ready with it. Stay tuned!</value>
+      <webElementGuid>5d9e465c-a582-4be0-a2b6-ec71094ca61f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+      <webElementGuid>cabd7a37-ee64-4d92-961c-0873b018883e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This is the privacy document. We are not yet ready with it. Stay tuned!']/parent::*</value>
+      <webElementGuid>33026b01-6bfb-4757-ba4c-9bcd7c337958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>0d0fba25-8dcb-4595-a224-e673c8d481cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'This is the privacy document. We are not yet ready with it. Stay tuned!Capture object: Alt ` ● Load DOM Map: Ctrl Alt ` ' or . = 'This is the privacy document. We are not yet ready with it. Stay tuned!Capture object: Alt ` ● Load DOM Map: Ctrl Alt ` ')]</value>
+      <webElementGuid>06bcb2fe-d50f-4150-b451-f27b7004b93c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

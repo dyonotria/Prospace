@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Error_Text</name>
+   <tag></tag>
+   <elementGuidId>ccde8197-f7c3-4c15-9a1b-79c2c7b78713</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='resultDiv']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#resultDiv</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c7aea2f1-66b0-4ca2-81e7-90fa4094607f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center top-space-20</value>
+      <webElementGuid>9b3a76fa-829d-4482-a185-1f09be9cc00d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>resultDiv</value>
+      <webElementGuid>41f15353-f269-4517-833d-828f27608815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter an integer</value>
+      <webElementGuid>d5de07a1-d1fb-4c7d-8514-d4957f052025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultDiv&quot;)</value>
+      <webElementGuid>d3a0b698-81ac-4504-950e-c13aa04d0026</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='resultDiv']</value>
+      <webElementGuid>46af735c-1c9c-45ce-a39f-16f57aa28c5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calclate!'])[1]/following::p[1]</value>
+      <webElementGuid>8dc3c24a-879f-4743-ab1d-94d0d9b89691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prospace factoral calculator'])[1]/following::p[3]</value>
+      <webElementGuid>ba46397f-82be-47ab-a973-e20084dd58dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms and Conditions'])[1]/preceding::p[1]</value>
+      <webElementGuid>60f756cf-5202-42b7-8b44-9da8f9aa9a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/preceding::p[1]</value>
+      <webElementGuid>af58b15d-dc7b-47bb-b751-e03651794479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please enter an integer']/parent::*</value>
+      <webElementGuid>368f0baf-c641-4c2d-8bfd-089b83f8117a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/p</value>
+      <webElementGuid>73440910-e6f5-4c00-a5e6-0e6c3be2521c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'resultDiv' and (text() = 'Please enter an integer' or . = 'Please enter an integer')]</value>
+      <webElementGuid>36def099-be7f-4fe7-a4af-cbe1884ce654</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
